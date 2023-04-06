@@ -1,14 +1,14 @@
 package com.example.HospitalManagemetSystem.Service;
 
 import com.example.HospitalManagemetSystem.DTO.DoctorDTO;
-import com.example.HospitalManagemetSystem.DTO.DoctorPatientDTO;
+
 import com.example.HospitalManagemetSystem.DTO.PatientDTO;
 import com.example.HospitalManagemetSystem.Entity.Doctor;
 import com.example.HospitalManagemetSystem.Entity.Hospital;
 import com.example.HospitalManagemetSystem.Entity.Patient;
 import com.example.HospitalManagemetSystem.Repository.DoctorRepository;
 import com.example.HospitalManagemetSystem.Repository.HospitalRepository;
-import com.example.HospitalManagemetSystem.Repository.PatientRepository;
+
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
